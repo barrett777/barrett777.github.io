@@ -8,9 +8,9 @@ var playersData = {
       "name": "00da2aed-1e63-413b-8dfe-77af59e29863",
       "dimensionId": 0,
       "position": [
-        1663.3,
+        2241.6985,
         65.62001,
-        -172.60556
+        642.5451
       ],
       "color": "DarkGreen"
     },
@@ -30,9 +30,9 @@ var playersData = {
       "name": "461c568c-cc24-4fbf-9748-6c501d2dc9f2",
       "dimensionId": 0,
       "position": [
-        1681.3534,
-        71.62001,
-        -194.58513
+        1653.9888,
+        70.32001,
+        -195.1657
       ],
       "color": "Purple"
     },
@@ -41,9 +41,9 @@ var playersData = {
       "name": "a62cabac-23ca-49ca-ba0a-3d878af3fc6f",
       "dimensionId": 0,
       "position": [
-        1694.5613,
-        71.62001,
-        -213.37317
+        1763.4554,
+        65.62001,
+        -231.69582
       ],
       "color": "DarkBlue"
     },
@@ -63,9 +63,9 @@ var playersData = {
       "name": "f9ffc0a1-24b0-4065-9b89-f92a8864ecbe",
       "dimensionId": 0,
       "position": [
-        1630.0951,
-        65.62001,
-        -130.9854
+        1669.5641,
+        69.62001,
+        -180.77008
       ],
       "color": "Gold"
     }
