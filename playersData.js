@@ -1,6 +1,7 @@
-// NOTE: Please only modify player attributes below such as name and color
+// NOTE: Please only modify player attributes below such as name, color, and visible
+// To hide a player's marker, change their 'visible' variable from 'true' to 'false'
 // This file is automatically updated, and if other parts are changed, it will fail to update
-// Names and colors will only be read from the /map/playersData.js file - /update/playersData.js will be overwritten, so don't make changes there
+// Changes will only be read from the /map/playersData.js file - /update/playersData.js will be overwritten, so don't make changes there
 var playersData = {
   "players": [
     {
@@ -8,9 +9,9 @@ var playersData = {
       "name": "00da2aed-1e63-413b-8dfe-77af59e29863",
       "dimensionId": 0,
       "position": [
-        2241.6985,
-        65.62001,
-        642.5451
+        1679.6819,
+        33.62001,
+        -240.3
       ],
       "color": "DarkGreen"
     },
@@ -30,20 +31,20 @@ var playersData = {
       "name": "461c568c-cc24-4fbf-9748-6c501d2dc9f2",
       "dimensionId": 0,
       "position": [
-        1653.9888,
-        70.32001,
-        -195.1657
+        1765.5715,
+        69.62001,
+        -224.706
       ],
       "color": "Purple"
     },
     {
       "uuid": "a62cabac-23ca-49ca-ba0a-3d878af3fc6f",
       "name": "a62cabac-23ca-49ca-ba0a-3d878af3fc6f",
-      "dimensionId": 0,
+      "dimensionId": 1,
       "position": [
-        1763.4554,
-        65.62001,
-        -231.69582
+        290.53378,
+        68.62001,
+        -100.66121
       ],
       "color": "DarkBlue"
     },
