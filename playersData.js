@@ -9,12 +9,12 @@ var playersData = {
       "name": "?Player 1?",
       "dimensionId": 0,
       "position": [
-        1679.6819,
-        33.62001,
-        -240.3
+        1686.5012,
+        70.62001,
+        -172.96509
       ],
       "color": "DarkGreen",
-	  "visible": true
+      "visible": true
     },
     {
       "uuid": "2f66b79e-a786-4ec2-8c0d-8c420ff56578",
@@ -26,31 +26,31 @@ var playersData = {
         -265.6138
       ],
       "color": "DarkRed",
-	  "visible": true
+      "visible": true
     },
     {
       "uuid": "461c568c-cc24-4fbf-9748-6c501d2dc9f2",
       "name": "Jenna",
       "dimensionId": 0,
       "position": [
-        1765.5715,
+        1655.5383,
         69.62001,
-        -224.706
+        -208.74182
       ],
       "color": "DeepPink",
-	  "visible": true
+      "visible": true
     },
     {
       "uuid": "a62cabac-23ca-49ca-ba0a-3d878af3fc6f",
       "name": "Ben",
-      "dimensionId": 1,
+      "dimensionId": 0,
       "position": [
-        290.53378,
-        68.62001,
-        -100.66121
+        1391.2571,
+        67.62001,
+        -2017.9384
       ],
       "color": "DarkGreen",
-	  "visible": true
+      "visible": true
     },
     {
       "uuid": "ae9269d5-ad28-4092-be4b-a8db6c7b567e",
@@ -62,7 +62,7 @@ var playersData = {
         -212.70615
       ],
       "color": "DarkRed",
-	  "visible": true
+      "visible": true
     },
     {
       "uuid": "f9ffc0a1-24b0-4065-9b89-f92a8864ecbe",
@@ -74,7 +74,7 @@ var playersData = {
         -180.77008
       ],
       "color": "Gold",
-	  "visible": true
+      "visible": true
     }
   ]
 };
