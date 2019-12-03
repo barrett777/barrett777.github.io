@@ -6,7 +6,7 @@ var playersData = {
   "players": [
     {
       "uuid": "00da2aed-1e63-413b-8dfe-77af59e29863",
-      "name": "?Player 1?",
+      "name": "?Nick?",
       "dimensionId": 0,
       "position": [
         1345.3,
@@ -14,7 +14,7 @@ var playersData = {
         -2064.3
       ],
       "color": "DarkGreen",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "2f66b79e-a786-4ec2-8c0d-8c420ff56578",
@@ -26,7 +26,7 @@ var playersData = {
         -177.21974
       ],
       "color": "DarkRed",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "461c568c-cc24-4fbf-9748-6c501d2dc9f2",
@@ -38,7 +38,7 @@ var playersData = {
         -2066.166
       ],
       "color": "DeepPink",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "a62cabac-23ca-49ca-ba0a-3d878af3fc6f",
@@ -50,7 +50,7 @@ var playersData = {
         358.79764
       ],
       "color": "DarkGreen",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "ae9269d5-ad28-4092-be4b-a8db6c7b567e",
@@ -62,7 +62,7 @@ var playersData = {
         362.32742
       ],
       "color": "DarkRed",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "f9ffc0a1-24b0-4065-9b89-f92a8864ecbe",
@@ -74,7 +74,7 @@ var playersData = {
         -234.72551
       ],
       "color": "Gold",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "8aa3efd2-da99-4c98-a520-02ee901518ca",
@@ -86,7 +86,7 @@ var playersData = {
         362.7644
       ],
       "color": "Gold",
-      "visible": false
+      "visible": true
     },
     {
       "uuid": "edda5469-7338-4518-b05a-5a797949027b",
@@ -98,7 +98,7 @@ var playersData = {
         4.5
       ],
       "color": "DarkRed",
-      "visible": false
+      "visible": true
     }
   ]
 };
