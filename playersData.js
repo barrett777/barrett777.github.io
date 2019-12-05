@@ -5,27 +5,15 @@
 var playersData = {
   "players": [
     {
-      "uuid": "00da2aed-1e63-413b-8dfe-77af59e29863",
-      "name": "?Nick?",
-      "dimensionId": 0,
-      "position": [
-        1345.3,
-        65.57001,
-        -2064.3
-      ],
-      "color": "DarkGreen",
-      "visible": true
-    },
-    {
       "uuid": "2f66b79e-a786-4ec2-8c0d-8c420ff56578",
-      "name": "?Player 2?",
+      "name": "Player 2f66b",
       "dimensionId": 0,
       "position": [
         1806.0983,
         65.62001,
         -177.21974
       ],
-      "color": "DarkRed",
+      "color": "Pink",
       "visible": true
     },
     {
@@ -33,9 +21,9 @@ var playersData = {
       "name": "Jenna",
       "dimensionId": 0,
       "position": [
-        1348.3186,
+        1401.2657,
         64.62001,
-        -2066.166
+        -2047.5798
       ],
       "color": "DeepPink",
       "visible": true
@@ -54,26 +42,38 @@ var playersData = {
     },
     {
       "uuid": "ae9269d5-ad28-4092-be4b-a8db6c7b567e",
-      "name": "?Player 3?",
+      "name": "Player ae926",
       "dimensionId": 0,
       "position": [
         2016.6128,
         75.62001,
         362.32742
       ],
-      "color": "DarkRed",
+      "color": "DeepPink",
       "visible": true
     },
     {
       "uuid": "f9ffc0a1-24b0-4065-9b89-f92a8864ecbe",
-      "name": "?Player 4?",
+      "name": "Player f9ffc",
       "dimensionId": 0,
       "position": [
         1633.1432,
         69.62001,
         -234.72551
       ],
-      "color": "Gold",
+      "color": "DarkOrange",
+      "visible": true
+    },
+    {
+      "uuid": "00da2aed-1e63-413b-8dfe-77af59e29863",
+      "name": "Player 00da2",
+      "dimensionId": 0,
+      "position": [
+        1345.3,
+        65.57001,
+        -2064.3
+      ],
+      "color": "Teal",
       "visible": true
     },
     {
@@ -85,7 +85,7 @@ var playersData = {
         81.62001,
         362.7644
       ],
-      "color": "Gold",
+      "color": "Teal",
       "visible": true
     },
     {
@@ -97,7 +97,7 @@ var playersData = {
         65.62001,
         4.5
       ],
-      "color": "DarkRed",
+      "color": "SaddleBrown",
       "visible": true
     }
   ]
