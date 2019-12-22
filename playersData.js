@@ -9,9 +9,9 @@ var playersData = {
       "name": "?Player 1?",
       "dimensionId": 0,
       "position": [
-        1739.3263,
+        1386.8276,
         69.62001,
-        -2088.7
+        -2047.7747
       ],
       "color": "DarkGreen",
       "visible": true
@@ -33,9 +33,9 @@ var playersData = {
       "name": "Jenna",
       "dimensionId": 0,
       "position": [
-        1348.7803,
-        64.62001,
-        -2072.659
+        805.5312,
+        36.62001,
+        -744.6232
       ],
       "color": "DeepPink",
       "visible": true
@@ -45,9 +45,9 @@ var playersData = {
       "name": "Ben",
       "dimensionId": 0,
       "position": [
-        2750.097,
-        69.62001,
-        33.763115
+        639.21545,
+        65.62001,
+        -792.9709
       ],
       "color": "DarkGreen",
       "visible": true
@@ -57,9 +57,9 @@ var playersData = {
       "name": "?Player 3?",
       "dimensionId": 0,
       "position": [
-        1681.596,
-        71.62001,
-        -196.4295
+        1879.6476,
+        64.10558,
+        -241.77528
       ],
       "color": "DarkRed",
       "visible": true
@@ -81,9 +81,9 @@ var playersData = {
       "name": "Player 8aa3e",
       "dimensionId": 0,
       "position": [
-        1716.6731,
-        63.62001,
-        79.70999
+        806.80365,
+        64.12143,
+        -766.0899
       ],
       "color": "Gold",
       "visible": true
@@ -105,9 +105,9 @@ var playersData = {
       "name": "Player fef52",
       "dimensionId": 0,
       "position": [
-        1716.0917,
-        63.62001,
-        76.1173
+        820.7724,
+        62.7851,
+        -754.76465
       ],
       "color": "DarkOrange",
       "visible": true
