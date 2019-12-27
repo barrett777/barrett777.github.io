@@ -45,9 +45,9 @@ var playersData = {
       "name": "Ben",
       "dimensionId": 0,
       "position": [
-        1680.5463,
+        1681.0375,
         71.62001,
-        -190.31245
+        -191.59851
       ],
       "color": "DarkGreen",
       "visible": true
@@ -57,9 +57,9 @@ var playersData = {
       "name": "?Player 3?",
       "dimensionId": 0,
       "position": [
-        1679.5,
+        1681.8474,
         71.62001,
-        -202.5
+        -190.51823
       ],
       "color": "DarkRed",
       "visible": true
@@ -81,9 +81,9 @@ var playersData = {
       "name": "Player 8aa3e",
       "dimensionId": 0,
       "position": [
-        1714.2788,
-        64.18251,
-        74.44276
+        1715.0657,
+        63.68251,
+        75.4648
       ],
       "color": "Gold",
       "visible": true
@@ -105,9 +105,9 @@ var playersData = {
       "name": "Player fef52",
       "dimensionId": 0,
       "position": [
-        1717.6483,
-        63.62001,
-        77.17465
+        2303.335,
+        89.68251,
+        -1155.0356
       ],
       "color": "DarkOrange",
       "visible": true
