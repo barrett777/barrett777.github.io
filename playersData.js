@@ -7,11 +7,11 @@ var playersData = {
     {
       "uuid": "00da2aed-1e63-413b-8dfe-77af59e29863",
       "name": "?Player 1?",
-      "dimensionId": 0,
+      "dimensionId": 2,
       "position": [
-        2638.8428,
-        71.62001,
-        45.879086
+        15.133995,
+        65.41673,
+        -1.3974857
       ],
       "color": "DarkGreen",
       "visible": true
@@ -33,9 +33,9 @@ var playersData = {
       "name": "Jenna",
       "dimensionId": 0,
       "position": [
-        2147.692,
-        65.62001,
-        -2021.2983
+        1683.9252,
+        75.52001,
+        -186.5
       ],
       "color": "DeepPink",
       "visible": true
@@ -45,9 +45,9 @@ var playersData = {
       "name": "Ben",
       "dimensionId": 0,
       "position": [
-        1681.0375,
-        71.62001,
-        -191.59851
+        2369.948,
+        28.62001,
+        -1458.6008
       ],
       "color": "DarkGreen",
       "visible": true
@@ -57,9 +57,9 @@ var playersData = {
       "name": "?Player 3?",
       "dimensionId": 0,
       "position": [
-        1681.8474,
-        71.62001,
-        -190.51823
+        2303.1965,
+        89.68251,
+        -1155.2681
       ],
       "color": "DarkRed",
       "visible": true
@@ -81,9 +81,9 @@ var playersData = {
       "name": "Player 8aa3e",
       "dimensionId": 0,
       "position": [
-        2297.9458,
-        89.68251,
-        -1149.6875
+        9147.94,
+        67.62001,
+        943.3
       ],
       "color": "Gold",
       "visible": true
@@ -93,9 +93,9 @@ var playersData = {
       "name": "Player edda5",
       "dimensionId": 0,
       "position": [
-        1644.5,
-        65.62001,
-        4.5
+        2209.4885,
+        69.62001,
+        -1250.2721
       ],
       "color": "DarkRed",
       "visible": true
@@ -105,9 +105,9 @@ var playersData = {
       "name": "Player fef52",
       "dimensionId": 0,
       "position": [
-        2301.153,
-        89.68251,
-        -1153.0223
+        5289.7,
+        73.68251,
+        -1678.2722
       ],
       "color": "DarkOrange",
       "visible": true
