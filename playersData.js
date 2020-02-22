@@ -9,9 +9,9 @@ var playersData = {
       "name": "Player 12f7b",
       "dimensionId": 0,
       "position": [
-        5.115784,
+        5.5,
         77.62001,
-        27.051245
+        27.5
       ],
       "color": "DarkBlue",
       "visible": true
@@ -21,9 +21,9 @@ var playersData = {
       "name": "Player 1337d",
       "dimensionId": 0,
       "position": [
-        83.47465,
-        13.62001,
-        102.95138
+        2701.9177,
+        74.62001,
+        478.35568
       ],
       "color": "DarkRed",
       "visible": true
@@ -45,9 +45,9 @@ var playersData = {
       "name": "Player 8e48f",
       "dimensionId": 0,
       "position": [
-        -1.2721953,
+        -1.0340719,
         97.62001,
-        65.48536
+        65.2956
       ],
       "color": "DarkBlue",
       "visible": true
